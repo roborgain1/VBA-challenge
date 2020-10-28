@@ -1,4 +1,5 @@
-Sub VBA-challenge()
+Attribute VB_Name = "Module1"
+Sub VBA_challenge()
 
 Dim WS As Worksheet
     For Each WS In ActiveWorkbook.Worksheets
